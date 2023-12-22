@@ -1,0 +1,40 @@
+body {
+    background-image: url("../images/Christmasbackground.jpg")
+}
+.mySubtitle{
+    font-family: Arial, Helvetica, sans-serif;
+    display:block;
+    font-size:large;
+    color:black;
+    line-height: 3rem;
+}
+.myTitle{
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    display: block;
+}
+.aboutmetitle{
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    font-size:large;
+    line-height: 3rem;
+}
+.byulink{
+    font-family:Arial, Helvetica, sans-serif;
+    color:royalblue
+}
+.myresume{
+    font-family: Arial, Helvetica, sans-serif;
+    display:block;
+    font-size:large;
+    color:black;
+    line-height: 3rem;
+    text-align:left;
+}
+li {
+    text-align: left;
+}
+.indexborder{
+    color:royalblue;
+
+}
